@@ -28,14 +28,16 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>title</key>
-				<string>小尼平安</string>
-				<key>bundle-version</key>
-				<string>103</string>
-				<key>kind</key>
-				<string>software</string>
 				<key>bundle-identifier</key>
 				<string>com.neat.peace</string>
+				<key>bundle-version</key>
+				<string>1.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>NeatSmartFire</string>
 			</dict>
 		</dict>
 	</array>
