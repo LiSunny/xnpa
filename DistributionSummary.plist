@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NeatSmartFire.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BEC79029CE2D34EEB9BEF12F459CAD93B49CA33F</string>
+				<key>dateExpires</key>
+				<string>2022/9/17</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2NPY46FN6Y.com.neat.peace</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2NPY46FN6Y</string>
+				<key>com.apple.external-accessory.wireless-configuration</key>
+				<true/>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>NeatSmartFire.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b25057e2-3af4-4129-8d11-9273a770174e</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.neat.peace</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2NPY46FN6Y</string>
+				<key>name</key>
+				<string>Qinhuangdao Nite Intelligent Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
